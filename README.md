@@ -19,7 +19,7 @@
 
 Můžete mě kontaktovat na následujících platformách:
 
-- Discord: [JackalDC](https://discordapp.com/users/1071743456050958386)
+- Discord: [originalnijmeno.](https://discordapp.com/users/1071743456050958386)
 - Instagram: [@zlatysamicek](https://www.instagram.com/zlatysamicek/)
 
 ### Webová stránka
