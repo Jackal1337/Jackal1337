@@ -1,10 +1,12 @@
 # Ahoj, jsem Jackal! 👋
 
-![Jackal Logo](https://i.imgur.com/6ROOYy8.png)
+<div align="center">
+  <img src="https://i.imgur.com/6ROOYy8.png" alt="Jackal Logo">
+</div>
 
 ### O mně
 
-🎨 Jsem grafik a kreativec, který miluje umění a design. Moje vášně zahrnují primárně grafický design a ilustraci. 
+🎨 Jsem grafik a kreativec, který miluje umění a design. Moje vášně zahrnují primárně grafický design a ilustraci.
 
 💻 Nedávno jsem začal zkoumat svět web designu a vytvářím vlastní projekty s HTML a CSS. Možná tu uvidíš nějaké z mých experimentů!
 
