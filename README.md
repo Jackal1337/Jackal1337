@@ -27,3 +27,5 @@ Můžete mě kontaktovat na následujících platformách:
 ### Webová stránka
 
 [jackal.studio](https://jackal.studio)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackal1337&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
