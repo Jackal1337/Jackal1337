@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://jackal.studio/assets/img/logo.png"  />
+<img align="right" height="150" src="https://notjackal.eu/images/JackalLogoNew.png"  />
 
 ###
 
