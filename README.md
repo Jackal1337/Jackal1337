@@ -3,6 +3,8 @@
   <img src="https://notjackal.eu/images/SignatureGray.png" height="200" />
 </p>
 
+---
+
 ###
 
 <img align="right" height="150" src="https://notjackal.eu/images/JackalLogoNew.png"  />
