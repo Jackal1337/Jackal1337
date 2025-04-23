@@ -1,5 +1,7 @@
 <h2 align="left">Ahoj 👋! Já jsem Jackal</h2>
-<img align="center" height="200" src="https://notjackal.eu/images/SignatureGray.png"/>
+<p align="center">
+  <img src="https://notjackal.eu/images/SignatureGray.png" height="200" />
+</p>
 
 ###
 
