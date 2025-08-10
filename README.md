@@ -1,100 +1,74 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=75&lines=Hey,+I'm+Jackal;Full-stack+tinkerer+•+React+wizard+•+Digital+wolf+roaming+the+web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Jackal;Full-stack+Web+Developer;React+%26+Next.js+Wizard;Code+%2B+Coffee+Enthusiast;Digital+Wolf+Roaming+the+Web" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🚀 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+### 🚀 About Me
+I’m **Jackal** — a developer who crafts web magic with **React**, **Next.js**, and a sprinkle of backend wizardry.  
+I design **fast, functional, and sleek** apps that feel as good as they look.  
+Powered by ☕, fueled by curiosity, and occasionally tamed by deadlines.
 
-<div style="display:flex;align-items:center;gap:0.5rem; flex-wrap: wrap;">
-  <img align="right" height="150" src="https://notjackal.eu/images/JackalLogoNew.png" />
-  <div style="flex: 1; min-width: 250px;">
-    <p>I'm a <strong>web developer</strong> who loves turning caffeine into <strong>sleek React.js apps</strong>, <strong>Discord bots</strong>, and <strong>web tools</strong> that actually make life easier.<br>
-    My code has two main goals: <strong>run fast</strong> and <strong>look good</strong> - in that order.<br>
-    <em>"Code is like humor. When you have to explain it, it's bad."</em></p>
-    <div style="max-width: 400px; margin: 2rem auto; background: #1e293b; border-radius: 12px; padding: 1rem 1.5rem; box-shadow: 0 4px 15px rgba(0,0,0,0.4); text-align: center;">
-  <h3 style="display: flex; align-items: center; justify-content: center; gap: 0.6rem; color: #60a5fa; font-weight: 700; margin-bottom: 0.3rem;">
-     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/internetexplorer.svg" alt="Web icon" style="width: 26px; height: 26px;filter: invert(100%) "/>
-        <span style="font-size: 1.25rem; color:#FFF">𝗠𝗬 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝗪𝗘𝗕𝗦𝗜𝗧𝗘</span>
-  </h3>
-  <p style="color: #cbd5e1; font-size: 0.9rem; margin-top: 0;">
-    Sleek, fast & minimalistic site showcasing my projects, skills and code philosophy.
-  </p>
-</div>
-  </div>
-</div>
+💡 *“Make it work. Make it right. Make it fast. Make it beautiful.”*
 
 ---
 
-### 🛠 𝗧𝗲𝗰𝗵 𝗔𝗿𝘀𝗲𝗻𝗮𝗹
+<img align="right" height="160" src="https://notjackal.eu/images/JackalLogoNew.png" />
 
-<div style="display: flex; gap: 3rem; flex-wrap: wrap; justify-content: center;">
+### 🛠 Tech Arsenal
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
-  <div style="flex: 1 1 250px; max-width: 300px;">
-    <h3 style="display: flex; align-items: center; gap: 0.5rem; font-weight: 600;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" alt="React Icon" style="width: 20px; height: 20px;"/> Frontend
-    </h3>
-    <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 0.5rem;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" alt="React" title="React" style="width: 30px; height: 30px;" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nextdotjs.svg" alt="Next.js" title="Next.js" style="width: 30px; height: 30px;" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" alt="JavaScript" title="JavaScript" style="width: 30px; height: 30px;" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/typescript.svg" alt="TypeScript" title="TypeScript" style="width: 30px; height: 30px;" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" alt="TailwindCSS" title="TailwindCSS" style="width: 30px; height: 30px;" />
-    </div>
-  </div>
+**Backend & Tools**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge)
 
-  <div style="flex: 1 1 250px; max-width: 300px;">
-    <h3 style="display: flex; align-items: center; gap: 0.5rem; font-weight: 600;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="Node.js Icon" style="width: 20px; height: 20px;"/> Backend & Other
-    </h3>
-    <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 0.5rem;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg" alt="Node.js" title="Node.js" style="width: 30px; height: 30px;" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" title="Python" style="width: 30px; height: 30px;" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/lua.svg" alt="Lua" title="Lua" style="width: 30px; height: 30px;" />
-    </div>
-  </div>
-
-  <div style="flex: 1 1 250px; max-width: 300px;">
-    <h3 style="display: flex; align-items: center; gap: 0.5rem; font-weight: 600;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/adobephotoshop.svg" alt="Photoshop Icon" style="width: 20px; height: 20px;"/> Design
-    </h3>
-    <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 0.5rem;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/adobephotoshop.svg" alt="Photoshop" title="Photoshop" style="width: 30px; height: 30px;" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/adobeillustrator.svg" alt="Illustrator" title="Illustrator" style="width: 30px; height: 30px;" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/adobeaftereffects.svg" alt="After Effects" title="After Effects" style="width: 30px; height: 30px;" />
-    </div>
-  </div>
-
-</div>
+**Design & Media**  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge)
 
 ---
 
-### 🎧 𝗪𝗵𝗮𝘁 𝗜'𝗺 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝗧𝗼
-
+### 🎧 What I'm Listening To
 <div align="center">
   <a href="https://open.spotify.com/user/31llwyhdeibb7f3oxffmy5xmjanu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aseflqimsjkkcv7k6ca2wmigb4&count=5" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aseflqimsjkkcv7k6ca2wmigb4&count=5&unique=true" alt="Spotify recently played" />
   </a>
 </div>
 
 ---
 
-### 🐾 𝗙𝘂𝗻 𝗙𝗮𝗰𝘁𝘀
+### 📊 GitHub Stats & Activity
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=notjackal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=notjackal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<ul>
-  <li>I have more side projects than finished ones (don't we all?)</li>
-  <li>Coffee → Code → Sleep → Repeat</li>
-  <li>My Git commit messages range from "fixed bug" to "WHAT IS HAPPENING???"</li>
-</ul>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notjackal&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
+
+### 🐾 Fun Facts
+- My commit messages range from “quick fix” to “🔥🚨 WHAT JUST HAPPENED”  
+- I have more unfinished projects than GitHub has repos  
+- Coffee → Code → Repeat (sleep is a myth)
+
+---
+
 <p align="center">
-  <img src="https://notjackal.eu/images/SignatureWhite.png" style="width:300px">
-  </p>
+  <img src="https://notjackal.eu/images/SignatureGray.png" height="180" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=notjackal&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views" />
 </p>
-
-
